@@ -12,6 +12,6 @@ ID -> jaydeepnasit@anon.com   PASSWORD -> abcABC123!@#
 ID -> anonymous@anon.com   PASSWORD -> abcABC123!@#
 ID -> admin@anon.com   PASSWORD -> abcABC123!@#
 ```
-## PreView :- 
+## Preview :- 
 
 ![demo](https://user-images.githubusercontent.com/26626045/60002061-33e34700-9625-11e9-836a-897f9f29276e.jpg)
